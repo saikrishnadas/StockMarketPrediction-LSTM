@@ -6,8 +6,6 @@ Stock market prediction by using Recurrent Neural Network On Google Stock Price
 
 Dataset used:
 
-
-
 Google stock price - Can download the dataset from https://www.kaggle.com/medharawat/google-stock-price
 
 Requirements:
