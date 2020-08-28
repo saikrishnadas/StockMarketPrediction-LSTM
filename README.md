@@ -10,8 +10,6 @@ Google stock price - Can download the dataset from https://www.kaggle.com/medhar
 
 Requirements:
 
-
-
 Python
 sklearn
 matplotlib
@@ -20,20 +18,14 @@ numpy
 
 Algorithm: 
 
-
-
 Recurrent Neural Network - LSTM 
 
 Tested Environment:
-
-
 
 Ubuntu 18.04 
 Google colab
 Windows 10
 
 Framework:
-
-
 
 Keras
